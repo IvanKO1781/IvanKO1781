@@ -65,8 +65,8 @@ I'm passionate about creating clean, functional websites and APIs that solve rea
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" height="180" alt="github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" height="180" alt="top langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=IvanKO1781&show_icons=true&theme=radical" height="180" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanKO1781&layout=compact&theme=radical" height="180" alt="top langs" />
 </div>
 
 ###
